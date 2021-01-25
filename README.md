@@ -1,5 +1,5 @@
 # Horizontal-Mill-x-axis-automation
-Horizontal Mill x axis automation
+Horizontal Mill x axis automation 
 This was developed to control the x axis of a horizontal milling maching using an Arduino Uno, stepper motor and driver.
 This program uses the AccelStepper library (https://www.airspayce.com/mikem/arduino/AccelStepper/)
 Inputs:
